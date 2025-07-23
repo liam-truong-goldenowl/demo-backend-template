@@ -1,39 +1,35 @@
-## Nest.js Migration Setup
+# Application name
 
-Practice setting up Nest.js project w/ TypeORM migrations
+Brief description for the repository
 
-## Description
+## Getting Started
 
-Main purpose of this repository is for feedback on the way of migration implementation w/ Nest.js and TypeORM
+Guidelines to help you set up and start using the project.
 
-## Project setup
+### Prerequisites
 
-```bash
-$ npm install
-```
+List of software, libraries, or tools required before installing the project.
 
-## Compile and run the project
+### Installation
 
-```bash
-# development
-$ npm run start
+Instructions to install the project and its dependencies.
 
-# watch mode
-$ npm run start:dev
+### Steps to Run Project
 
-# production mode
-$ npm run start:prod
-```
+Step-by-step guide to launch and run the application.
 
-## Run tests
+## Steps to Run Tests
 
-```bash
-# unit tests
-$ npm run test
+Instructions on how to execute the test suite and verify functionality.
 
-# e2e tests
-$ npm run test:e2e
+## Folder Structure
 
-# test coverage
-$ npm run test:cov
-```
+Overview of the project's directory layout and purpose of key folders.
+
+## Built With
+
+Technologies, frameworks, and libraries used in the project.
+
+## Further Documentation
+
+Links or references to additional documentation and resources.
